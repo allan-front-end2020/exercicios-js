@@ -1,14 +1,13 @@
+ alert(' ola')
  //  Variaveis tipo strings 
- var text = 'Curso de Js'
+ var texto = 'Curso de js udemy'
+ var numeros = -'4'
 
- /// variaves  tipo number
-
- var numeroInteiro = -5
-
- var numeroFracionario = 2.00
+  var meuNovovariavel ='vc vai se tornar um programador js'
 
 
- //// variaves tipo booleanas 
+ document.write(texto)
+ br
+  document.write(meuNovovariavel)
 
- var teste = 'true'
- var teste = 'false'
+console.log(numeros);
